@@ -17,7 +17,7 @@ So when testing oyr package onto the terminal we tested different scenarios :
 
 <div align="center">
 
-<img src="https://github.com/LucieBertiere/TP10-Dev-practice-ALCARAZ-BERTIERE/tree/main/Images/negative_integer.png" width="450" height="275">
+<img src="https://github.com/LucieBertiere/TP10-Dev-practice-ALCARAZ-BERTIERE/blob/main/Images/negative_integer.png" width="1000" height="125">
   
 </div>
 
@@ -26,7 +26,9 @@ So when testing oyr package onto the terminal we tested different scenarios :
 
 <div align="center">
 
-<img src="https://github.com/LucieBertiere/TP10-Dev-practice-ALCARAZ-BERTIERE/tree/main/Images/good_output.png" width="450" height="275">
+<img src="https://github.com/LucieBertiere/TP10-Dev-practice-ALCARAZ-BERTIERE/blob/main/Images/good_output.png" width="1000" height="125">
   
 </div>
+
+We have here the 6-th element of the Fibonnaci suite.
  
