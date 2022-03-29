@@ -33,8 +33,10 @@ def __main__():
     
     # running the function
     my_input = args.input
-    logger.info("The --input term of the fibonnaci suite")
-    print(fibonacci(my_input))
+    if my_input<0 :
+        logger.error("Negative integer, please enter a positive one.")
+    else :
+        print(fibonacci(my_input))
     
     
 __main__()
