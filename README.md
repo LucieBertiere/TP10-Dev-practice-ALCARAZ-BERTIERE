@@ -8,7 +8,7 @@ So when testing oyr package onto the terminal we tested different scenarios :
 - entering a non-integer value (float or string for instance)
 <div align="center">
 
-<img src="https://github.com/LucieBertiere/TP10-Dev-practice-ALCARAZ-BERTIERE/blob/main/Images/not_integer.png" width="850" height="175">
+<img src="https://github.com/LucieBertiere/TP10-Dev-practice-ALCARAZ-BERTIERE/blob/main/Images/not_integer.png" width="900" height="125">
   
 </div>
 
