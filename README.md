@@ -26,7 +26,7 @@ So when testing oyr package onto the terminal we tested different scenarios :
 
 <div align="center">
 
-<img src="https://github.com/LucieBertiere/TP10-Dev-practice-ALCARAZ-BERTIERE/blob/main/Images/good_output.png" width="1000" height="45">
+<img src="https://github.com/LucieBertiere/TP10-Dev-practice-ALCARAZ-BERTIERE/blob/main/Images/good_output.png" width="1000" height="40">
   
 </div>
 
